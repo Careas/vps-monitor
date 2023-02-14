@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "msn",
+    "url": "https://www.github.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.github.com.ico",
+    "slug": "msn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 246,
+    "timeDay": 246,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "TFM Site Site",
     "url": "https://topfloormarketing.net",
     "icon": "https://icons.duckduckgo.com/ip3/topfloormarketing.net.ico",
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3277,
-    "timeDay": 3277,
-    "timeWeek": 3277,
-    "timeMonth": 3277,
-    "timeYear": 3277,
+    "time": 3324,
+    "timeDay": 3324,
+    "timeWeek": 3324,
+    "timeMonth": 3324,
+    "timeYear": 3324,
     "dailyMinutesDown": {}
   }
 ]

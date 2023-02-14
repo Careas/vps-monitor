@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: msn
+    url: https://www.github.com
   - name: TFM Site Site
     url: https://topfloormarketing.net
 

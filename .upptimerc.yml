@@ -9,9 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-    - name: TFM Site Site
+  - name: TFM Site Site
     url: https://topfloormarketing.net
 
 status-website:

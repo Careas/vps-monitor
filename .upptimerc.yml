@@ -9,6 +9,8 @@ sites:
     url: https://www.github.com
   - name: TFM Site Site
     url: https://topfloormarketing.net
+  - name: 1kingchimneyrepair
+    url: https://1kingchimneyrepair.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

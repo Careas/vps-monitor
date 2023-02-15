@@ -15,6 +15,7 @@ sites:
     url: https://1kingchimneyrepair.com
   - name: TFM.main
     url: 190.181.131.162
+    port: 53
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4

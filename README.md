@@ -24,7 +24,7 @@ With [Upptime](https://topfloormarketing.net), you can get your own unlimited an
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://topfloormarketing.net)
 
 ## 📄 License
 

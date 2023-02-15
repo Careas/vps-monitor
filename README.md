@@ -1,4 +1,4 @@
-# [📈 Live Status](https://topfloormarketing.net): <!--live status--> **🟩 All systems operational**
+# [📈 Web Monitor](https://topfloormarketing.net): <!--Web Monitor--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 

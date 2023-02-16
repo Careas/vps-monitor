@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Careas, vps-monitor
-repo: upptime # The name of this repository
+owner: Careas # Careas, vps-monitor
+repo: vps-monitor # The name of this repository
 
 sites:
   - name: PBX

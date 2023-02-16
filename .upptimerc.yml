@@ -11,6 +11,7 @@ sites:
     url: io.topfloormarketing.net
   - name: sitepb
     url: 190.181.131.163
+    check: "tcp-ping"
   - name: msn
     url: https://www.github.com
   - name: TFM Site Site

@@ -8,8 +8,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: VPS
-    check: "tcp-ping"
-    url: 170.249.219.27
+    url: io.topfloormarketing.net
   - name: msn
     url: https://www.github.com
   - name: TFM Site Site

@@ -5,6 +5,8 @@ repo: vps-monitor # The name of this repository
 sites:
   - name: PBX
     url: https://tfmpbx.app
+  - name: excel
+    url: https://excelseguros.bytfm.com/
   - name: Google
     url: https://www.google.com
   - name: VPS

@@ -8,7 +8,7 @@ sites:
   - name: excelseguros body
     method: POST
     url: https://excelseguros.bytfm.com
-    body: '{ title="webmaster@excelseguros.bytfm.com" rel="noopener noreferrer">Contact your hosting provider</a> for more information }'
+    body: '{ Contact your hosting provider</a> for more information }'
     maxResponseTime: 1100
   - name: excel
     url: https://excelseguros.bytfm.com

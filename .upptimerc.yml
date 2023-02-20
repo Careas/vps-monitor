@@ -8,6 +8,12 @@ sites:
   - name: POST to excelseguros
     url: https://excelseguros.bytfm.com
     method: POST
+  - name: excelseguros body
+  method: POST
+  url: https://excelseguros.bytfm.com
+  headers:
+    - "Content-Type: application/json"
+  body: '{ i class="fas fa-user-times fa-2x"></i> Account Suspended }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

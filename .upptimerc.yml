@@ -8,7 +8,7 @@ sites:
   - name: excelseguros body
     method: POST
     url: https://excelseguros.bytfm.com
-    body: '{ title="2014 Can Am Maverick Street Legal Kit" }'
+    body: '{ <span class="menu-text">Contacto</span> }'
     maxResponseTime: 1100
   - name: excel
     url: https://excelseguros.bytfm.com

@@ -10,7 +10,7 @@ sites:
     url: https://excelseguros.bytfm.com
     headers:
     - "Content-Type: status-reason"
-    body: '{ If you are struggling in writing an essay you should order essay cheap }'
+    body: '{ <div class="extended_sidebar_box extended_sidebar_position_right"><div class="extended_sidebar_mask"></div> }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

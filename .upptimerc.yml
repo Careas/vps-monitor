@@ -6,10 +6,7 @@ sites:
   - name: PBX
     url: https://tfmpbx.app
   - name: API endpoint
-    url: https://bytfm.com
-    method: POST
-  - name: excel
-    url: https://excelseguros.bytfm.com
+    url: https://excelseguros.bytfm.com/wp-content/uploads/2020/08/Mask-Group-1.png
   - name: Google
     url: https://www.google.com
   - name: VPS

@@ -9,7 +9,6 @@ sites:
     url: https://excelseguros.bytfm.com
     expectedStatusCodes:
       - 200
-    maxResponseTime: 250
     __dangerous__disable_verify_peer: true
     __dangerous__body_if_text_missing: "This Account has been suspended"
   - name: Google

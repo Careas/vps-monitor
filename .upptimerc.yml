@@ -8,10 +8,7 @@ sites:
   - name: API endpoint
     url: https://excelseguros.bytfm.com/wp-content/uploads/2020/08/Mask-Group-1.png
     expectedStatusCodes:
-      - 200
-      - 201
       - 404
-      - 504
   - name: Google
     url: https://www.google.com
   - name: VPS

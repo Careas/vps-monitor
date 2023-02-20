@@ -5,15 +5,12 @@ repo: vps-monitor # The name of this repository
 sites:
   - name: PBX
     url: https://tfmpbx.app
-  - name: POST to excelseguros
-    url: https://excelseguros.bytfm.com
-    method: POST
   - name: excelseguros body
-  method: POST
-  url: https://excelseguros.bytfm.com
-  headers:
+    method: POST
+    url: https://excelseguros.bytfm.com
+    headers:
     - "Content-Type: status-reason"
-  body: '{ <i class="fas fa-user-times fa-2x"></i> }'
+    body: '{ <i class="fas fa-user-times fa-2x"></i> }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

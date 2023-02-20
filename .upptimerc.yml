@@ -7,8 +7,7 @@ sites:
     url: https://tfmpbx.app
   - name: API endpoint
     url: https://excelseguros.bytfm.com
-    headers:
-      - "Content-Type: application/json"
+    method: POST
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

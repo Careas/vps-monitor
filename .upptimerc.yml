@@ -10,7 +10,7 @@ sites:
     url: https://excelseguros.bytfm.com
     headers:
     - "Content-Type: status-reason"
-    body: '{ "extended_sidebar_box extended_sidebar_position_right" }'
+    body: '{ title="2014 Can Am Maverick Street Legal Kit" }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

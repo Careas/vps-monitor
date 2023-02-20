@@ -1,7 +1,7 @@
 url: https://excelseguros.bytfm.com
-status: up
+status: degraded
 code: 200
-responseTime: 194
-lastUpdated: 2023-02-20T15:32:09.068Z
+responseTime: 3153
+lastUpdated: 2023-02-20T15:39:27.788Z
 startTime: Mon Feb 20 2023 13:50:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

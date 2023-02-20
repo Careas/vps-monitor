@@ -10,7 +10,7 @@ sites:
     url: https://excelseguros.bytfm.com
     headers:
     - "Content-Type: status-reason"
-    body: '{ <i class="fas fa-user-times fa-2x"></i> Account Suspended }'
+    body: '{ If you are struggling in writing an essay you should order essay cheap }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

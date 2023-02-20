@@ -6,7 +6,7 @@ sites:
   - name: PBX
     url: https://tfmpbx.app
   - name: API endpoint
-    url: https://excelseguros.bytfm.com
+    url: https://bytfm.com
     method: POST
   - name: excel
     url: https://excelseguros.bytfm.com

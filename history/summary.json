@@ -22,19 +22,19 @@
     "url": "https://excelseguros.bytfm.com/wp-content/uploads/2020/08/Mask-Group-1.png",
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "api-endpoint",
-    "status": "down",
-    "uptime": "85.80%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "85.80%",
-    "uptimeYear": "85.80%",
-    "time": 642,
-    "timeDay": 642,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "status": "degraded",
+    "uptime": "83.45%",
+    "uptimeDay": "83.45%",
+    "uptimeWeek": "83.45%",
+    "uptimeMonth": "83.45%",
+    "uptimeYear": "83.45%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-02-20": 32
+      "2023-02-20": 38
     }
   },
   {

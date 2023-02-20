@@ -11,7 +11,7 @@ sites:
     headers:
     - "Content-Type: status-reason"
     body: '{ title="2014 Can Am Maverick Street Legal Kit" }'
-    maxResponseTime: 500
+    maxResponseTime: 1100
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

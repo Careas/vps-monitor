@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "api-endpoint",
     "status": "up",
-    "uptime": "71.00%",
-    "uptimeDay": "71.00%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "71.00%",
-    "uptimeYear": "71.00%",
+    "uptime": "71.80%",
+    "uptimeDay": "71.80%",
+    "uptimeWeek": "71.80%",
+    "uptimeMonth": "71.80%",
+    "uptimeYear": "71.80%",
     "time": 520,
     "timeDay": 520,
     "timeWeek": 520,
     "timeMonth": 520,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-02-20": 95
+      "2023-02-20": 92
     }
   },
   {

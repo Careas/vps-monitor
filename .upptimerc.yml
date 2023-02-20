@@ -9,7 +9,9 @@ sites:
     method: POST
     url: https://excelseguros.bytfm.com
     maxResponseTime: 1000
-    body: '{ body class="home page-template-default page page-id-284 wp-embed-responsive theme-apress woocommerce-js  wide_layout slider_position_below titlebar_position_below sidebar_widget_style_none wpb-js-composer js-comp-ver-6.2.0 vc_responsive apc-doc-ready" }'
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "class="home" page-template-default page page-id-284 wp-embed-responsive theme-apress woocommerce-js  wide_layout slider_position_below titlebar_position_below sidebar_widget_style_none wpb-js-composer js-comp-ver-6.2.0 vc_responsive apc-doc-ready" }'
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

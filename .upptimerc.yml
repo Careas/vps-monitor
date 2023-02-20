@@ -8,10 +8,10 @@ sites:
   - name: excelseguros body
     method: POST
     url: https://excelseguros.bytfm.com
-    maxResponseTime: 1000
+    maxResponseTime: 10
     headers:
       - "Content-Type: application/json"
-    body: '"class="home"'
+    body: "additional-info-items"
   - name: excel
     url: https://excelseguros.bytfm.com
   - name: Google

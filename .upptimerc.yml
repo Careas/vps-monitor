@@ -8,7 +8,9 @@ sites:
   - name: API endpoint
     url: https://excelseguros.bytfm.com/wp-content/uploads/2020/08/Mask-Group-1.png
     expectedStatusCodes:
-      - 404
+      - 200
+    maxResponseTime: 1000
+    __dangerous__body_down: "Suspended"
   - name: Google
     url: https://www.google.com
   - name: VPS

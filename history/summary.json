@@ -22,19 +22,19 @@
     "url": "https://excelseguros.bytfm.com",
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "excelseguros-body",
-    "status": "degraded",
-    "uptime": "85.73%",
-    "uptimeDay": "85.73%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
-    "time": 1802,
-    "timeDay": 1802,
-    "timeWeek": 1802,
-    "timeMonth": 1802,
-    "timeYear": 1802,
+    "status": "up",
+    "uptime": "69.04%",
+    "uptimeDay": "69.04%",
+    "uptimeWeek": "69.04%",
+    "uptimeMonth": "69.04%",
+    "uptimeYear": "69.04%",
+    "time": 1680,
+    "timeDay": 1680,
+    "timeWeek": 1680,
+    "timeMonth": 1680,
+    "timeYear": 1680,
     "dailyMinutesDown": {
-      "2023-02-20": 11
+      "2023-02-20": 31
     }
   },
   {

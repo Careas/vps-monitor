@@ -10,7 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 1000
-    __dangerous__body_down: "Suspended"
+    __dangerous__body_down: "Account Suspended"
   - name: Google
     url: https://www.google.com
   - name: VPS

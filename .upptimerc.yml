@@ -5,6 +5,12 @@ repo: vps-monitor # The name of this repository
 sites:
   - name: PBX
     url: https://tfmpbx.app
+  - name: JCFloring
+    url: jcfloorandmorellc.com
+    __dangerous__disable_verify_peer: true
+    __dangerous__body_if_text_missing: "This Account has been suspended"
+    expectedStatusCodes:
+      - 200
   - name: API endpoint
     url: https://excelseguros.bytfm.com
     expectedStatusCodes:

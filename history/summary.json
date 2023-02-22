@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 617,
-    "timeWeek": 592,
+    "timeWeek": 594,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {}
@@ -34,7 +34,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-02-22": 172,
+      "2023-02-22": 1050,
       "2023-02-21": 217
     }
   },
@@ -43,18 +43,19 @@
     "url": "https://excelseguros.bytfm.com",
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "api-endpoint",
-    "status": "up",
-    "uptime": "95.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.42%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "95.42%",
+    "status": "down",
+    "uptime": "96.77%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "96.77%",
     "time": 914,
     "timeDay": 3844,
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
     "dailyMinutesDown": {
+      "2023-02-22": 1,
       "2023-02-20": 92
     }
   },
@@ -125,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 3243,
     "timeDay": 3559,
-    "timeWeek": 3251,
+    "timeWeek": 3268,
     "timeMonth": 3243,
     "timeYear": 3243,
     "dailyMinutesDown": {}
@@ -143,7 +144,7 @@
     "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 503,
-    "timeWeek": 572,
+    "timeWeek": 592,
     "timeMonth": 561,
     "timeYear": 561,
     "dailyMinutesDown": {}

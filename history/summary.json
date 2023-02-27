@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 521,
-    "timeWeek": 592,
+    "timeWeek": 611,
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {}
@@ -22,18 +22,19 @@
     "url": "jcfloorandmorellc.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jc-floring",
-    "status": "up",
-    "uptime": "80.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.22%",
-    "uptimeMonth": "80.22%",
-    "uptimeYear": "80.22%",
+    "status": "down",
+    "uptime": "82.02%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "82.02%",
+    "uptimeYear": "82.02%",
     "time": 1993,
     "timeDay": 1925,
     "timeWeek": 1993,
     "timeMonth": 1993,
     "timeYear": 1993,
     "dailyMinutesDown": {
+      "2023-02-27": 2,
       "2023-02-22": 1284,
       "2023-02-21": 217
     }
@@ -43,18 +44,19 @@
     "url": "https://excelseguros.bytfm.com",
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "api-endpoint",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 1306,
     "timeDay": 1704,
     "timeWeek": 1306,
     "timeMonth": 1306,
     "timeYear": 1306,
     "dailyMinutesDown": {
+      "2023-02-27": 1,
       "2023-02-20": 92
     }
   },
@@ -71,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 73,
-    "timeWeek": 127,
+    "timeWeek": 125,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -89,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 47,
-    "timeWeek": 151,
+    "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {}
@@ -107,7 +109,7 @@
     "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 74,
-    "timeWeek": 93,
+    "timeWeek": 96,
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -117,36 +119,40 @@
     "url": "https://topfloormarketing.net",
     "icon": "https://icons.duckduckgo.com/ip3/topfloormarketing.net.ico",
     "slug": "tfm-site-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3213,
     "timeDay": 1781,
-    "timeWeek": 3282,
+    "timeWeek": 3068,
     "timeMonth": 3213,
     "timeYear": 3213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-27": 1
+    }
   },
   {
     "name": "1kingchimneyrepair",
     "url": "https://1kingchimneyrepair.com",
     "icon": "https://icons.duckduckgo.com/ip3/1kingchimneyrepair.com.ico",
     "slug": "1kingchimneyrepair",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 273,
-    "timeWeek": 459,
+    "timeWeek": 479,
     "timeMonth": 544,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-27": 0
+    }
   },
   {
     "name": "Google DNS 1",
@@ -161,7 +167,7 @@
     "uptimeYear": "100.00%",
     "time": 15,
     "timeDay": 22,
-    "timeWeek": 15,
+    "timeWeek": 13,
     "timeMonth": 15,
     "timeYear": 15,
     "dailyMinutesDown": {}
@@ -179,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 24,
-    "timeWeek": 16,
+    "timeWeek": 14,
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {}

@@ -11,6 +11,12 @@ sites:
     __dangerous__body_if_text_missing: "This Account has been suspended"
     expectedStatusCodes:
       - 200
+  - name: jereconstructionroofing
+    url: jereconstructionroofing.com
+    __dangerous__disable_verify_peer: true
+    __dangerous__body_if_text_missing: "This Account has been suspended"
+    expectedStatusCodes:
+      - 200
   - name: API endpoint
     url: https://excelseguros.bytfm.com
     expectedStatusCodes:

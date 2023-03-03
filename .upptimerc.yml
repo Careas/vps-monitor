@@ -3,9 +3,7 @@ owner: Careas # Careas, vps-monitor
 repo: vps-monitor # The name of this repository
 
 sites:
-  - name: PBX
-    url: https://tfmpbx.app
-    - name: herrera
+  - name: herrera
     url: https://herreraconstructionandmorellc.com/
     maxResponseTime: 1650
     expectedStatusCodes:

@@ -19,11 +19,11 @@ sites:
       - 200
   - name: excel
     url: https://excelseguros.bytfm.com
+    maxResponseTime: 500
+    check: "tcp-ping"
     expectedStatusCodes:
       - 200
     __dangerous__body_down: "<title>Account Suspended</title>"
-     check: "tcp-ping"
-     maxResponseTime: 500
   - name: Google
     url: https://www.google.com
   - name: VPS

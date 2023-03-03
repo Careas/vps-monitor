@@ -64,8 +64,8 @@
     "slug": "excel",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "1.89%",
-    "uptimeWeek": "1.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1576,
@@ -74,7 +74,6 @@
     "timeMonth": 1576,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2023-03-03": 7,
       "2023-02-20": 27
     }
   },

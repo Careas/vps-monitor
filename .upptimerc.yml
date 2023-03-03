@@ -5,6 +5,12 @@ repo: vps-monitor # The name of this repository
 sites:
   - name: PBX
     url: https://tfmpbx.app
+  -name: Herreraconstruction
+    url: https://herreraconstructionandmorellc.com/
+    maxResponseTime: 1650
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down: "<title>Account Suspended</title>"
   - name: JCFloring
     url: jcfloorandmorellc.com
     __dangerous__disable_verify_peer: true

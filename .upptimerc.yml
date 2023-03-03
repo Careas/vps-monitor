@@ -6,7 +6,7 @@ sites:
   - name: PBX
     url: https://tfmpbx.app
   -name: Herreraconstruction
-    url: https://herreraconstructionandmorellc.com/
+    url: herreraconstructionandmorellc.com
     maxResponseTime: 1650
     expectedStatusCodes:
       - 200

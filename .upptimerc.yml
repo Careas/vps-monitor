@@ -3,6 +3,9 @@ owner: Careas # Careas, vps-monitor
 repo: vps-monitor # The name of this repository
 
 sites:
+  - name: PBX
+    url: 190.181.131.163
+    check: "tcp-ping"
   - name: herrera
     url: https://herreraconstructionandmorellc.com/
     maxResponseTime: 1650

@@ -19,7 +19,7 @@ sites:
       - 200
   - name: excel
     url: https://excelseguros.bytfm.com
-    maxResponseTime: 500
+    maxResponseTime: 1650
     check: "tcp-ping"
     expectedStatusCodes:
       - 200

@@ -12,7 +12,6 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down: "<title>Account Suspended</title>"
-    __dangerous__body_down: "<title> 509 Bandwidth Limit Exceeded"
   - name: JCFloring
     url: jcfloorandmorellc.com
     __dangerous__disable_verify_peer: true

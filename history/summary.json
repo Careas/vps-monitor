@@ -4,19 +4,19 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 76,
-    "timeWeek": 85,
-    "timeMonth": 96,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 410,
+    "timeDay": 103,
+    "timeWeek": 91,
+    "timeMonth": 97,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 5
     }
   },
   {
@@ -101,9 +101,9 @@
     "slug": "excel",
     "status": "down",
     "uptime": "97.78%",
-    "uptimeDay": "9.43%",
-    "uptimeWeek": "87.06%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "9.07%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "97.78%",
     "time": 847,
     "timeDay": 0,
@@ -111,7 +111,7 @@
     "timeMonth": 350,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-04-14": 1004,
+      "2023-04-14": 1009,
       "2023-04-13": 300,
       "2023-03-03": 11,
       "2023-02-20": 27

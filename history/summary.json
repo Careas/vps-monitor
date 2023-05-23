@@ -4,19 +4,19 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 102,
-    "timeWeek": 99,
-    "timeMonth": 98,
-    "timeYear": 326,
+    "time": 324,
+    "timeDay": 92,
+    "timeWeek": 96,
+    "timeMonth": 97,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2023-05-23": 1
+      "2023-05-23": 5
     }
   },
   {
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-05-23": 1160,
+      "2023-05-23": 1163,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
@@ -197,19 +197,19 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sitepb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 101,
-    "timeWeek": 99,
+    "timeDay": 92,
+    "timeWeek": 96,
     "timeMonth": 91,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 4
     }
   },
   {

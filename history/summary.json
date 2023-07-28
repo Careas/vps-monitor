@@ -4,19 +4,19 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 253,
+    "time": 252,
     "timeDay": 76,
-    "timeWeek": 111,
-    "timeMonth": 101,
-    "timeYear": 253,
+    "timeWeek": 107,
+    "timeMonth": 100,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-07-28": 1
+      "2023-07-28": 5
     }
   },
   {
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-07-28": 1398,
+      "2023-07-28": 1403,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,

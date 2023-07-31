@@ -31,7 +31,7 @@
     "time": 315,
     "timeDay": 0,
     "timeWeek": 377,
-    "timeMonth": 332,
+    "timeMonth": 333,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2023-04-01": 311,
@@ -59,7 +59,7 @@
     "time": 1271,
     "timeDay": 0,
     "timeWeek": 1424,
-    "timeMonth": 1357,
+    "timeMonth": 1359,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2023-02-27": 65,
@@ -72,19 +72,19 @@
     "url": "jereconstructionroofing.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jereconstructionroofing",
-    "status": "down",
+    "status": "up",
     "uptime": "96.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "96.81%",
-    "time": 1645,
-    "timeDay": 71,
-    "timeWeek": 1670,
-    "timeMonth": 1898,
-    "timeYear": 1645,
+    "time": 1648,
+    "timeDay": 1092,
+    "timeWeek": 1726,
+    "timeMonth": 1910,
+    "timeYear": 1648,
     "dailyMinutesDown": {
-      "2023-07-31": 0,
+      "2023-07-31": 12,
       "2023-03-28": 864,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-07-31": 1388,
+      "2023-07-31": 1400,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -238,7 +238,7 @@
     "time": 119,
     "timeDay": 199,
     "timeWeek": 150,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2023-06-16": 18
@@ -258,7 +258,7 @@
     "time": 135,
     "timeDay": 0,
     "timeWeek": 146,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 326,
-    "timeMonth": 423,
+    "timeMonth": 429,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-02-27": 64
@@ -314,7 +314,7 @@
     "time": 724,
     "timeDay": 0,
     "timeWeek": 2966,
-    "timeMonth": 2860,
+    "timeMonth": 2854,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2023-02-27": 64

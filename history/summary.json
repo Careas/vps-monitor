@@ -6,9 +6,9 @@
     "slug": "pbx",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 226,
     "timeDay": 73,
@@ -16,7 +16,7 @@
     "timeMonth": 100,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-09-07": 1,
+      "2023-09-07": 5,
       "2023-08-26": 23
     }
   },
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-09-07": 277,
+      "2023-09-07": 281,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,

@@ -79,9 +79,9 @@
     "url": "jereconstructionroofing.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jereconstructionroofing",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.52%",
@@ -91,6 +91,7 @@
     "timeMonth": 1478,
     "timeYear": 1686,
     "dailyMinutesDown": {
+      "2023-09-15": 0,
       "2023-08-11": 31,
       "2023-08-08": 18,
       "2023-03-28": 864,
@@ -118,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-09-15": 66,
+      "2023-09-15": 167,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,

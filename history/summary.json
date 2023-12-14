@@ -4,9 +4,9 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbx",
-    "status": "up",
+    "status": "down",
     "uptime": "96.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "96.43%",
@@ -16,6 +16,7 @@
     "timeMonth": 95,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-12-04": 52,
       "2023-11-06": 89,
       "2023-11-03": 481,
@@ -130,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelseguros.bytfm.com.ico",
     "slug": "excel",
     "status": "down",
-    "uptime": "14.42%",
+    "uptime": "14.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.42%",
+    "uptimeYear": "14.41%",
     "time": 847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-12-14": 69,
+      "2023-12-14": 97,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -437,9 +438,9 @@
     "url": "190.181.131.163",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sitepb",
-    "status": "up",
+    "status": "down",
     "uptime": "96.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "96.62%",
@@ -449,6 +450,7 @@
     "timeMonth": 103,
     "timeYear": 100,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-12-04": 51,
       "2023-11-06": 87,
       "2023-11-03": 462,
@@ -522,9 +524,9 @@
     "url": "8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -534,6 +536,7 @@
     "timeMonth": 4,
     "timeYear": 9,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-06-16": 18
     }
   },
@@ -542,9 +545,9 @@
     "url": "8.8.4.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -553,6 +556,8 @@
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 8,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]

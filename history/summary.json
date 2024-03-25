@@ -59,7 +59,7 @@
     "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.63%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "98.63%",
     "time": 336,
     "timeDay": 294,
@@ -102,14 +102,14 @@
     "url": "jereconstructionroofing.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jereconstructionroofing",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "51.08%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "52.02%",
     "uptimeWeek": "82.41%",
     "uptimeMonth": "95.87%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 3673,
-    "timeDay": 790,
+    "timeDay": 804,
     "timeWeek": 739,
     "timeMonth": 722,
     "timeYear": 3774,
@@ -138,7 +138,7 @@
       "2023-12-24": 478,
       "2023-12-22": 48,
       "2023-12-21": 158,
-      "2023-12-20": 97
+      "2023-12-20": 27
     }
   },
   {
@@ -158,7 +158,7 @@
     "timeMonth": 0,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-03-25": 1080,
+      "2024-03-25": 1110,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,

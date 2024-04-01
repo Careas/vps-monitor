@@ -58,8 +58,8 @@
     "status": "down",
     "uptime": "96.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.43%",
-    "uptimeMonth": "77.20%",
+    "uptimeWeek": "9.29%",
+    "uptimeMonth": "77.17%",
     "uptimeYear": "97.26%",
     "time": 357,
     "timeDay": 1693,
@@ -67,7 +67,7 @@
     "timeMonth": 562,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-04-01": 1319,
+      "2024-04-01": 1333,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -106,15 +106,15 @@
     "url": "jereconstructionroofing.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jereconstructionroofing",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "56.54%",
-    "uptimeWeek": "66.11%",
-    "uptimeMonth": "92.20%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "57.48%",
+    "uptimeWeek": "66.26%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 2958,
     "timeDay": 829,
-    "timeWeek": 899,
+    "timeWeek": 901,
     "timeMonth": 831,
     "timeYear": 3020,
     "dailyMinutesDown": {
@@ -123,7 +123,7 @@
       "2024-03-30": 560,
       "2024-03-29": 674,
       "2024-03-28": 579,
-      "2024-03-27": 512
+      "2024-03-27": 496
     }
   },
   {
@@ -143,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-04-01": 1319,
+      "2024-04-01": 1333,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,

@@ -41,8 +41,8 @@ sites:
     url: https://topfloormarketing.net
   - name: 1kingchimneyrepair
     url: https://1kingchimneyrepair.com
-  - name: Andrea
-    url: https://andradeslandscapingservicesllc.bytfm.com/ 
+  - name: Viall
+    url: https://www.viallypavers.com 
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.8.8
